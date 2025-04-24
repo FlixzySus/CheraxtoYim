@@ -15,6 +15,7 @@ To use the `CheraxtoYim.exe`, make sure the following files are in the **same fo
 - `CheraxtoYim.exe` ✅ *(This program)*
 - `Base.json` ✅ *(Cherax vehicle data used for conversion)*
 - `full.json` ✅ *(Yim vehicle base data used for conversion)*
+- `full.json` ✅ *(Vehicle related information)*
 
 ---
 
