@@ -1,0 +1,117 @@
+{
+    "": "TOGGLE",
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        8,
+        0
+    ],
+    "MOD_FENDER": [
+        1,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        62,
+        0
+    ],
+    "MOD_GRILLE": [
+        12,
+        0
+    ],
+    "MOD_HOOD": [
+        16,
+        0
+    ],
+    "MOD_HORNS": [
+        56,
+        0
+    ],
+    "MOD_LIVERY": [
+        8,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        18,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        18,
+        0
+    ],
+    "MOD_SPOILERS": [
+        17,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TANK": [
+        19,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "custom_primary_color": [
+        255,
+        255,
+        255
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        0
+    ],
+    "dash_color": 5,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 3,
+    "interior_color": 4,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        255,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 5,
+    "plate_text": "21SPA190",
+    "plate_text_index": 5,
+    "primary_color": 3,
+    "radio_station": "RADIO_27_DLC_PRHEI4",
+    "secondary_color": 1,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 127317925,
+    "vehicle_window_tint": 1,
+    "wheel_color": 0,
+    "wheel_type": 8
+}
