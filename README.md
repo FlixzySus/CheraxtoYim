@@ -6,8 +6,6 @@
 
 ## 📦 Files Required
 
-## 💡 Features
-
 To use the `CheraxtoYim.exe`, make sure the following files are in the **same folder** as the executable:
 
 - `CheraxtoYim.exe` ✅ *(This program)*
